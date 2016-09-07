@@ -8,7 +8,7 @@
 ### [Babel's Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 ### [Babel's ES2015 "Try it out"](https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&code=)
 ### [ES6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
-### [AirBnB Style Guide](https://github.com/airbnb/javascript)
+### [Airbnb Style Guide](https://github.com/airbnb/javascript)
 
 
 ## Good Articles
