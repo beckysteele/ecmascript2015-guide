@@ -2,6 +2,7 @@
 ![alt text](http://sub1.kevinchisholm.com/blog/images/ecmascript6-logo.png "ES6")
 ## (remember, ES2015 === ECMAScript 2015 === ES6 === ECMAScript 6)
 
+## A (very basic) [slide deck](https://docs.google.com/presentation/d/1VvI313dwGrF8gyjRMoGZqZNpI2QBWySb8nP-nynAwwM/edit?usp=sharing).
 
 ## Good Resources
 ### [ECMAScript 2015 Language Specification--official](http://www.ecma-international.org/ecma-262/6.0/index.html)
